@@ -1,7 +1,7 @@
 {
   "id": "scene_builder",
   "name": "Godot Scene Builder",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ct",
   "description": "Inspect and edit Godot scene nodes and their properties with a live preview.",
   "category": "tools, editor",
@@ -9,7 +9,7 @@
     "src/**/*.cs"
   ],
   "depends": [
-    "tools_base>=1",
-    "ui_base>=1"
+    "tools_base>=0.1.0",
+    "ui_base>=0.1.0"
   ]
 }
